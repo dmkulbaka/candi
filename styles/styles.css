@@ -550,8 +550,6 @@ body {
   object-fit: cover;
 }
 
-.footer {}
-
 .footer__container {
   display: flex;
   align-items: center;
@@ -561,7 +559,7 @@ body {
 
 .footer__link-phone {
   display: block;
-  ont-weight: 400;
+  font-weight: 400;
   font-size: 18px;
   line-height: 1.67;
   color: #533738;
